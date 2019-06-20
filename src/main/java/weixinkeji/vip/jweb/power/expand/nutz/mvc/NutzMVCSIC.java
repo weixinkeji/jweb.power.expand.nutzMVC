@@ -12,9 +12,8 @@ import weixinkeji.vip.jweb.power.ann.JWPCode;
 import weixinkeji.vip.jweb.power.config.JWPSystemInterfaceConfig;
 
 /**
- * 示例
  * <p>
- * JWebPower框架 对接nutzboot.mvc框架 实例类
+ * 	JWebPower框架 对接nutzboot.mvc框架 实例类
  * </p>
  * 
  * @author wangchunzi
